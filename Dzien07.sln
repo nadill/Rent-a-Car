@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindExample", "DataBindExample\DataBindExample.csproj", "{B13AE1BC-74A7-47E7-8A49-D0E5DEBAAA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar", "RentACar\RentACar.csproj", "{934442AE-51FA-4BEA-88F1-1780FCEC245E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13AE1BC-74A7-47E7-8A49-D0E5DEBAAA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13AE1BC-74A7-47E7-8A49-D0E5DEBAAA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13AE1BC-74A7-47E7-8A49-D0E5DEBAAA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13AE1BC-74A7-47E7-8A49-D0E5DEBAAA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934442AE-51FA-4BEA-88F1-1780FCEC245E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934442AE-51FA-4BEA-88F1-1780FCEC245E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934442AE-51FA-4BEA-88F1-1780FCEC245E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934442AE-51FA-4BEA-88F1-1780FCEC245E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A425F275-C483-427A-87C7-CE5852948D19}
+	EndGlobalSection
+EndGlobal
